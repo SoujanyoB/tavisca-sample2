@@ -1,0 +1,8 @@
+.vs
+*.sln
+*.csproj
+*.dll
+*.json
+*.exe
+bin
+obj
