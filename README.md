@@ -1,2 +1,3 @@
 # tavisca-sample2
-demo
+
+This folder holds code for C# practice and lessons taught!
